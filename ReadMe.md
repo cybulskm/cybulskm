@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science honours student at Sheridan College, with a specialization in data analysis. <br>I am working on several side projects at the moment, mostly for my friends and family.<br>I am looking for a computer science co-op for the winter/summer seasons.<br>I enjoy working on mobile applications (Xcode for the win), web applications, data analysis, and game development.
+I am a computer science honours student at Sheridan College, with a specialization in data analysis. I am working on several side projects at the moment, mostly for my friends and family. I am looking for a computer science co-op for the winter/summer seasons. I enjoy working on mobile applications (Xcode for the win), web applications, data analysis, and game development.
 
 
 ## 🌐 Socials:
